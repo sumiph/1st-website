@@ -165,4 +165,5 @@ text-shadow: 2px 2px blue;
 .box-contend .box button{
 align-items: center;
 margin-left: 35%;
+margin-top: 0;
 }
